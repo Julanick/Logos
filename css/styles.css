@@ -207,7 +207,7 @@ h6 {
   transition: background .2s linear;
 }
 
-.nav_toggle.active .nav-toggle_item {
+.nav_toggle.active .nav_toggle_item {
   background: none;
 }
 
