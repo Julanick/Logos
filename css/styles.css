@@ -1,4 +1,4 @@
-body {
+﻿body {
   margin: 0;
   font-family: "Montserrat", sans-serif;
   font-size: 15px;
@@ -393,7 +393,7 @@ h6 {
 .card-img {
   background: linear-gradient(to bottom, #f38181, #fce38a);
 
-  transition: transform .2s linear; /*плавно*/
+  transition: transform .2s linear; 
 }
 
 .card-item:hover .card-text {
@@ -641,8 +641,6 @@ hr {
 .works_item:hover .works_info {
   opacity: 1;
 }
-
-
 
 .works_info {
   width: 100%;
